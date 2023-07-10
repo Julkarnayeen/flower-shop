@@ -10,7 +10,6 @@
     justify-content: space-between;
     align-items: center;
 }
-
 /* Logo and Menu Section Style */
 .logo{
     margin-left: 100px;
@@ -24,7 +23,6 @@
     font-weight:bolder;
     margin-right: 150px;
 }
-
 /* Banner Area Style */
 .banner-container{
     height: 80vh;
@@ -65,17 +63,14 @@
     height: 450px;
     margin-right: 100px;
 }
-
 /* Main Area Style */
 .our-feature-flower{
     text-align: center;
     padding: 100px;
 }
-
 .our-feature-flower-title{
     padding-bottom: 5px;
 }
-
 /* Flower Varient Style */
 .flowers-varient{
     display: flex;
@@ -95,7 +90,6 @@
     border-top-left-radius: 250px;
     border-top-right-radius: 250px;
 }
-
 .secend-flower-bg{
     width: 300px;
     height: 360px;
@@ -103,7 +97,6 @@
     border-top-left-radius: 250px;
     border-top-right-radius: 250px;
 }
-
 .third-flower-bg{
     width: 300px;
     height: 360px;
@@ -111,7 +104,6 @@
     border-top-left-radius: 250px;
     border-top-right-radius: 250px;
 }
-
 .first-flower-image{
     width: 170px;
     height: 250px;
@@ -119,7 +111,6 @@
     margin-right: 76px;
     margin-left: 76px;
 }
-
 /* Flower Name */
 .Flowes-varient-name{
     display: flex;
@@ -129,7 +120,6 @@
     gap: 200px;
     padding-bottom: 128px;
 }
-
 /* Our Service */
 .our-service{
     display: flex;
@@ -148,9 +138,7 @@
     text-align: center;
 
 }
-
 /* Hot Deal Area Style */
-
 .hot-deal-container{
     height: 60vh;
     background-color: rgba(229, 84, 115, 0.10);
@@ -158,7 +146,7 @@
     align-items: center;
     justify-content: space-between;
 }
-    /* Banner Info */
+/* hot deal text Info */
 .hot-deal-info{
     margin-left: 120px;
     align-items: center;
@@ -186,36 +174,31 @@
     margin: auto;
     text-align: center;
 }
-
-    /* banner Image */
+/* hot deal Image */
 .hot-deal-image{
     width: 265px;
     height: 350px;
     margin-right: 200px;
 }
-
 /* insta section */
 .insta-section{
     text-align: center;
     padding: 50px;
 }
-
 .insta-section-titile{
     padding-bottom: 5px;
 }
-
 .insta-section-image{
     display: flex;
     justify-content: center;
     gap: 24px;
     margin-bottom: 100px;
 }
-
 .insta-image{
     height: 250px;
 
 }
-
+/* Latest Deal Style */
 .latest-deal{
     background-image: url("./asset/Rectangle\ 9.png");
     background-size: cover;
@@ -237,10 +220,28 @@
     height: 30px;
     border-radius: 5px;
 }
-
 .subscribe{
     height: 30px;
     color: white;
     background-color: #E55473;
     border-radius: 5px;
+}
+/* Footer Area Style */
+.footer-area{
+    background-color: black;
+    width: 100%;
+    height: 300px;
+    color: white;
+    text-align: center;
+    padding-top: 75px;
+}
+.foot-heading{
+    color: #E55473;
+}
+.foot-head{
+    font-size: 45px;
+}
+.foot-p{
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
