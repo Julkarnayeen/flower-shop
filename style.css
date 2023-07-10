@@ -2,3 +2,76 @@
     margin: 0;
     padding: 0;
 }
+/* Header section style  */
+.nav-container{
+    display: flex;
+    background: rgba(229, 84, 115, 0.10);
+    padding: 20px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Logo and Menu Section Style */
+.logo{
+    margin-left: 100px;
+}
+.menu{
+    list-style: none;
+    display: flex;
+    gap: 15px;
+    font-size: 25px;
+    color: black;
+    font-weight:bolder;
+    margin-right: 150px;
+}
+
+/* Banner Area Style */
+.banner-container{
+    height: 80vh;
+    background-color: rgba(229, 84, 115, 0.10);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+    /* Banner Info */
+.banner-info{
+    margin-left: 120px;
+}
+.title{
+    font-size: 55px;
+    font-weight: bold;
+    color: black;
+}
+.primary{
+    color: red;
+}
+.description{
+    color: black;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    margin: auto;
+}
+.btn-primary{
+    padding: 12px 20px;
+    border-radius: 10px;
+}
+.bg{
+    background-color: red;
+    color: white;
+}
+    /* banner Image */
+.banner-image{
+    width: 450px;
+    height: 450px;
+    margin-right: 100px;
+}
+
+/* Main Area Style */
+.our-feature-flower{
+    text-align: center;
+    padding: 100px;
+}
+
+.our-feature-flower-title{
+    padding-bottom: 5px;
+}
