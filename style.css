@@ -127,4 +127,69 @@
     padding-right: 240px;
     padding-left: 240px;
     gap: 200px;
+    padding-bottom: 128px;
+}
+
+/* Our Service */
+.our-service{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 5px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 10px;
+    background: rgba(39, 39, 39, 0.05);
+    margin-bottom: 128px;
+}
+.service-section{
+    padding: 30px;
+    align-items: center;
+    text-align: center;
+
+}
+
+/* Hot Deal Area Style */
+
+.hot-deal-container{
+    height: 60vh;
+    background-color: rgba(229, 84, 115, 0.10);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+    /* Banner Info */
+.hot-deal-info{
+    margin-left: 120px;
+    align-items: center;
+}
+.hot-deal-title{
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+}
+.Sign-Up{
+    color: red;
+    padding: 12px 20px;
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 220px;
+}
+.hot-deal-description{
+    color: black;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    margin: auto;
+    text-align: center;
+}
+
+    /* banner Image */
+.hot-deal-image{
+    width: 265px;
+    height: 350px;
+    margin-right: 200px;
 }
