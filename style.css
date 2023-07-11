@@ -213,6 +213,10 @@
     margin-bottom: 128px;
     text-align: center;
 }
+.color-last{
+    color: #C9AE00;
+}
+
 .latest-area{
     padding-top: 130px;
 }
@@ -227,14 +231,10 @@
 .subscribe{
     height: 30px;
     color: white;
-    background-color: #E55473;
+    background-color: #7F013D;
     border-radius: 5px;
     width: 100px;
     height: 34px;
-}
-.subscribe:hover{
-    border: solid rgb(7, 206, 179);
-    color: rgb(7, 206, 179);
 }
 
 
